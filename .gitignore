@@ -1,0 +1,6 @@
+.gitconfig
+/data
+/.ipynb_checkpoints
+/.ipython  
+/.jupyter
+/.local
